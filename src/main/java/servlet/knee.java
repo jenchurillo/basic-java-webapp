@@ -26,7 +26,7 @@ import ca.uhn.fhir.rest.gclient.IClientExecutable;
 import servlet.MiniProject3;
 
 @WebServlet(name = "detailedPlan",
-urlPatterns = {"/ihiFhirAssignment_war_exploded/detailedPlan"})
+urlPatterns = {"/ihiFhirAssignment_war_exploded/knee"})
 public class knee extends HttpServlet {
 
     private String serverBase ="http://hapi.fhir.org/baseDstu3";
