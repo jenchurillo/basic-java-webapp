@@ -23,7 +23,7 @@ import ca.uhn.fhir.context.FhirContext;
 import ca.uhn.fhir.rest.client.api.IClientInterceptor;
 import ca.uhn.fhir.rest.client.api.IGenericClient;
 import ca.uhn.fhir.rest.gclient.IClientExecutable;
-import assignment.MiniProject3;
+import servlet.MiniProject3;
 
 @WebServlet(name = "detailedPlan",
 urlPatterns = {"/ihiFhirAssignment_war_exploded/detailedPlan"})
