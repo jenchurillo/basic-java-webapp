@@ -7,7 +7,7 @@
     <!-- list servlet -->
     <servlet>
         <servlet-name>carePlan</servlet-name>
-        <servlet-class>assignment.carePlan</servlet-class>
+        <servlet-class>servlet.carePlan</servlet-class>
     </servlet>
 
     <servlet-mapping>
