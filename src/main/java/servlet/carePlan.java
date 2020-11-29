@@ -34,7 +34,7 @@ import servlet.MiniProject3;
 
 @WebServlet(
     name = "carePlan",
-    urlPatterns = {"/carePlan"}
+    urlPatterns = {"/ihiFhirAssignment_war_exploded/carePlan"}
            )
 
 public class carePlan extends HttpServlet {
