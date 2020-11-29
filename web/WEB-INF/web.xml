@@ -17,7 +17,7 @@
 
     <servlet>
         <servlet-name>knee</servlet-name>
-        <servlet-class>assignment.knee</servlet-class>
+        <servlet-class>servlet.knee</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -27,7 +27,7 @@
 
     <servlet>
         <servlet-name>hamstringStretch</servlet-name>
-        <servlet-class>assignment.hamstringStretch</servlet-class>
+        <servlet-class>servlet.hamstringStretch</servlet-class>
     </servlet>
 
 
@@ -38,7 +38,7 @@
 
     <servlet>
         <servlet-name>wrist</servlet-name>
-        <servlet-class>assignment.wrist</servlet-class>
+        <servlet-class>servlet.wrist</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -48,7 +48,7 @@
 
     <servlet>
         <servlet-name>rheumatoid</servlet-name>
-        <servlet-class>assignment.rheumatoid</servlet-class>
+        <servlet-class>servlet.rheumatoid</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -58,7 +58,7 @@
 
     <servlet>
         <servlet-name>progress</servlet-name>
-        <servlet-class>assignment.progress</servlet-class>
+        <servlet-class>servlet.progress</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -68,7 +68,7 @@
 
     <servlet>
         <servlet-name>calfStretch</servlet-name>
-        <servlet-class>assignment.calfStretch</servlet-class>
+        <servlet-class>servlet.calfStretch</servlet-class>
     </servlet>
 
 
@@ -79,7 +79,7 @@
 
     <servlet>
         <servlet-name>heelRaise</servlet-name>
-        <servlet-class>assignment.heelRaise</servlet-class>
+        <servlet-class>servlet.heelRaise</servlet-class>
     </servlet>
 
 
@@ -90,7 +90,7 @@
 
     <servlet>
         <servlet-name>oneLegBalance</servlet-name>
-        <servlet-class>assignment.oneLegBalance</servlet-class>
+        <servlet-class>servlet.oneLegBalance</servlet-class>
     </servlet>
 
 
@@ -101,7 +101,7 @@
 
     <servlet>
         <servlet-name>pillowSqueeze</servlet-name>
-        <servlet-class>assignment.pillowSqueeze</servlet-class>
+        <servlet-class>servlet.pillowSqueeze</servlet-class>
     </servlet>
 
 
@@ -112,7 +112,7 @@
 
     <servlet>
         <servlet-name>quadSet</servlet-name>
-        <servlet-class>assignment.quadSet</servlet-class>
+        <servlet-class>servlet.quadSet</servlet-class>
     </servlet>
 
 
@@ -123,7 +123,7 @@
 
     <servlet>
         <servlet-name>seatedHipMarch</servlet-name>
-        <servlet-class>assignment.seatedHipMarch</servlet-class>
+        <servlet-class>servlet.seatedHipMarch</servlet-class>
     </servlet>
 
 
@@ -134,7 +134,7 @@
 
     <servlet>
         <servlet-name>sideLegRaise</servlet-name>
-        <servlet-class>assignment.sideLegRaise</servlet-class>
+        <servlet-class>servlet.sideLegRaise</servlet-class>
     </servlet>
 
 
@@ -145,7 +145,7 @@
 
     <servlet>
         <servlet-name>sitToStand</servlet-name>
-        <servlet-class>assignment.sitToStand</servlet-class>
+        <servlet-class>servlet.sitToStand</servlet-class>
     </servlet>
 
 
@@ -156,7 +156,7 @@
 
     <servlet>
         <servlet-name>straightLegRaise</servlet-name>
-        <servlet-class>assignment.straightLegRaise</servlet-class>
+        <servlet-class>servlet.straightLegRaise</servlet-class>
     </servlet>
 
 
@@ -167,7 +167,7 @@
 
     <servlet>
         <servlet-name>food</servlet-name>
-        <servlet-class>assignment.food</servlet-class>
+        <servlet-class>servlet.food</servlet-class>
     </servlet>
 
 
@@ -178,7 +178,7 @@
 
     <servlet>
         <servlet-name>stretching</servlet-name>
-        <servlet-class>assignment.stretching</servlet-class>
+        <servlet-class>servlet.stretching</servlet-class>
     </servlet>
 
 
@@ -189,7 +189,7 @@
 
     <servlet>
         <servlet-name>walking</servlet-name>
-        <servlet-class>assignment.walking</servlet-class>
+        <servlet-class>servlet.walking</servlet-class>
     </servlet>
 
 
@@ -200,7 +200,7 @@
 
     <servlet>
         <servlet-name>swimming</servlet-name>
-        <servlet-class>assignment.swimming</servlet-class>
+        <servlet-class>servlet.swimming</servlet-class>
     </servlet>
 
 
@@ -211,7 +211,7 @@
 
     <servlet>
         <servlet-name>cycling</servlet-name>
-        <servlet-class>assignment.cycling</servlet-class>
+        <servlet-class>servlet.cycling</servlet-class>
     </servlet>
 
 
@@ -222,7 +222,7 @@
 
     <servlet>
         <servlet-name>flowing</servlet-name>
-        <servlet-class>assignment.flowing</servlet-class>
+        <servlet-class>servlet.flowing</servlet-class>
     </servlet>
 
 
@@ -233,7 +233,7 @@
 
     <servlet>
         <servlet-name>pilates</servlet-name>
-        <servlet-class>assignment.pilates</servlet-class>
+        <servlet-class>servlet.pilates</servlet-class>
     </servlet>
 
 
@@ -244,7 +244,7 @@
 
     <servlet>
         <servlet-name>strength</servlet-name>
-        <servlet-class>assignment.strength</servlet-class>
+        <servlet-class>servlet.strength</servlet-class>
     </servlet>
 
 
@@ -255,7 +255,7 @@
 
     <servlet>
         <servlet-name>flexion</servlet-name>
-        <servlet-class>assignment.flexion</servlet-class>
+        <servlet-class>servlet.flexion</servlet-class>
     </servlet>
 
 
@@ -266,7 +266,7 @@
 
     <servlet>
         <servlet-name>flips</servlet-name>
-        <servlet-class>assignment.flips</servlet-class>
+        <servlet-class>servlet.flips</servlet-class>
     </servlet>
 
 
@@ -277,7 +277,7 @@
 
     <servlet>
         <servlet-name>deviation</servlet-name>
-        <servlet-class>assignment.deviation</servlet-class>
+        <servlet-class>servlet.deviation</servlet-class>
     </servlet>
 
 
@@ -288,7 +288,7 @@
 
     <servlet>
         <servlet-name>extensor</servlet-name>
-        <servlet-class>assignment.extensor</servlet-class>
+        <servlet-class>servlet.extensor</servlet-class>
     </servlet>
 
 
@@ -299,7 +299,7 @@
 
     <servlet>
         <servlet-name>flexor</servlet-name>
-        <servlet-class>assignment.flexor</servlet-class>
+        <servlet-class>servlet.flexor</servlet-class>
     </servlet>
 
 
@@ -310,7 +310,7 @@
 
     <servlet>
         <servlet-name>intrinsicFlexion</servlet-name>
-        <servlet-class>assignment.intrinsicFlexion</servlet-class>
+        <servlet-class>servlet.intrinsicFlexion</servlet-class>
     </servlet>
 
 
@@ -321,7 +321,7 @@
 
     <servlet>
         <servlet-name>extension</servlet-name>
-        <servlet-class>assignment.extension</servlet-class>
+        <servlet-class>servlet.extension</servlet-class>
     </servlet>
 
 
@@ -332,7 +332,7 @@
 
     <servlet>
         <servlet-name>logout</servlet-name>
-        <servlet-class>assignment.logout</servlet-class>
+        <servlet-class>servlet.logout</servlet-class>
     </servlet>
 
 
