@@ -66,7 +66,7 @@
 
 <div>
     <p>Log into Care Plan Portal</p>
-        <form action="/ihiFhirAssignment_war_exploded/carePlan" method="post">
+        <form action="/carePlan" method="post">
             username: <input type="text" name="username" width="30" placeholder="Username"/>
             password: <input type="password" name="password" width="30" placeholder="Password"/>
             <input type="submit" value="Log In"/>
