@@ -23,7 +23,6 @@ public class HelloServlet extends HttpServlet {
         out.flush();
         out.close();
     }
-                request.getRequestDispatcher("/portal.jsp").forward(request,response);
                 
               
 
