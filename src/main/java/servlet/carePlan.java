@@ -32,7 +32,11 @@ import servlet.MiniProject3;
 
 
 
-@WebServlet(name = "carePlan")
+@WebServlet(
+    name = "carePlan",
+    urlPatterns = {"/portal"}
+           )
+
 public class carePlan extends HttpServlet {
 
     private String serverBase ="http://hapi.fhir.org/baseDstu3";
