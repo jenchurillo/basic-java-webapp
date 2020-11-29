@@ -22,6 +22,7 @@ public class HelloServlet extends HttpServlet {
         out.write("hello heroku".getBytes());
         out.flush();
         out.close();
+        request.getRequestDispatcher("/portal.jsp").forward(request,response);
     }
                 
               
