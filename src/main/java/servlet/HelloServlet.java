@@ -24,7 +24,7 @@ public class HelloServlet extends HttpServlet {
         out.close();
     }
                 request.getRequestDispatcher("/portal.jsp").forward(request,response);
-                request.getRequestDispatcher("/carePlan.jsp").forward(request,response);
+                
               
 
 }
