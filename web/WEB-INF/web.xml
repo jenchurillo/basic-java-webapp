@@ -12,7 +12,7 @@
 
     <servlet-mapping>
         <servlet-name>carePlan</servlet-name>
-        <url-pattern>/carePlan</url-pattern>
+        <url-pattern>ihiFhirAssignment_war_exploded/carePlan</url-pattern>
     </servlet-mapping>
 
     <servlet>
